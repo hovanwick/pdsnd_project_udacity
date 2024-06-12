@@ -1,7 +1,7 @@
 ### Importing the necessary libraries
 import time
-import traceback 
 import pandas as pd
+import traceback 
 
 #### this is the csv files dictionary
 CITY_DATA = { 'chicago': 'chicago.csv',
